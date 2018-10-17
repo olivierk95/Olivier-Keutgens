@@ -1,5 +1,4 @@
-# olivier keutgens
- ## :bowtie: **Olivier KEUTGENS**
+ # :bowtie: **Olivier KEUTGENS**
 
  ```javascript
  alert("Hello World");
